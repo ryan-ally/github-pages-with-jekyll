@@ -1,2 +1,2 @@
-title: silkyjohnson155s first blog post
-date: 07-28-2020
+title: "silkyjohnson155s first blog post"
+date: 2020-07-28
